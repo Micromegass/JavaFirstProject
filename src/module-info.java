@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author micromegas
+ *
+ */
+module firstProject {
+}
